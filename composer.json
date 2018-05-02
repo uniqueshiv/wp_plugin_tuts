@@ -1,0 +1,11 @@
+{
+    "name": "root/webnin-plugin",
+    "description": "Awesome starter plugin tutorila",
+    "type": "Prject",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+      "psr-4":{"Inc\\":"./inc"}
+    }
+}
